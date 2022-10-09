@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+   background-color: #656D78 ;
+  
+   
+}
+
+.main--images{
+  display: flex;
+  align-items: center;
+  background-color: #656D78 ;
+}
+
+.main--images img{
+  width: 250px;
+  object-fit: contain;
+  background-position: center;
+  background-size: cover;
+}
